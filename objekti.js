@@ -4,7 +4,6 @@ var korpa = {
 };
 
 
-
 console.log(korpa);
 korpa.GPU = 100;
 korpa.CDrom = 200;
